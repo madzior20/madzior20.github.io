@@ -757,7 +757,7 @@ a {
 }
 .cid-tzsItePbFq .dropdown-menu,
 .cid-tzsItePbFq .navbar.opened {
-  background: #8caff0 !important;
+  background: #232323 !important;
 }
 .cid-tzsItePbFq .nav-item:focus,
 .cid-tzsItePbFq .nav-link:focus {
@@ -792,7 +792,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #8caff0;
+  background: #232323;
 }
 .cid-tzsItePbFq .navbar.opened {
   transition: all 0.3s;
@@ -942,7 +942,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tzsItePbFq .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #8caff0;
+  background: #232323;
 }
 .cid-tzsItePbFq .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
